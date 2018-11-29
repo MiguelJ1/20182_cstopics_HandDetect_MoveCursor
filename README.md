@@ -18,6 +18,8 @@ We used a color filter to the localitation hand and fist, this filter take the y
 
 Next we going to show the flow diagram:
 https://user-images.githubusercontent.com/45437733/49184484-811c6600-f32d-11e8-9c32-eeebf6808157.jpg
+![diagrama](https://user-images.githubusercontent.com/45437733/49232259-9d69e280-f3c1-11e8-9efb-2bff439234ce.jpg)
+
 
 We use Tensorflow to create CNN, this net have 4 layers. Information for CNN:
 https://user-images.githubusercontent.com/45437733/49190063-ca28e600-f33e-11e8-8f11-6c620e2263fb.JPG
